@@ -1,5 +1,10 @@
 # Error we are facing
+![Screenshot_1](https://user-images.githubusercontent.com/21030885/139529756-ae8adbae-26f3-4073-922d-61eee6eb5002.png)
 
+![Screenshot_2](https://user-images.githubusercontent.com/21030885/139529759-1911fe31-6c59-40f1-b22b-0f171a6423ba.png)
+
+
+![Screenshot_3](https://user-images.githubusercontent.com/21030885/139529762-026853cb-dbaa-468e-8bd3-7645508ec43f.png)
 
 
 # Getting Started with Create React App
