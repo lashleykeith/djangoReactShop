@@ -1,4 +1,4 @@
-# Error we are facin
+# Error we are facing
 
 
 
